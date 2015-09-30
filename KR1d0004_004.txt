@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官新義
-#+DATE: 2015-09-23 09:37:20
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:07:19.264928
+#+PROPERTY: ID KR1d0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1d0004_WYG_004-1a>¶
 欽定四庫全書¶
 　周官新義卷四　　　　宋　王安石　撰¶
@@ -364,4 +366,3 @@
 　田張幕而不張次則與衆皆作故也掌凡邦之張事¶
 <pb:KR1d0004_WYG_004-21a>¶
 　則在宫張事自幕人掌之掌次所掌凡在邦而已¶
-

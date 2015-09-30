@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官新義
-#+DATE: 2015-09-23 09:37:20
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:07:19.240615
+#+PROPERTY: ID KR1d0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1d0004_WYG_002-1a>¶
 欽定四庫全書¶
 　周官新義卷二　　　　宋　王安石　撰¶
@@ -283,4 +285,3 @@
 　以攷其㑹而正歲書其能者良者以告于上良者書¶
 <pb:KR1d0004_WYG_002-16b>¶
 　之賢可知矣¶
-

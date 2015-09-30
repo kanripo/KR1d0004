@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官新義
-#+DATE: 2015-09-23 09:37:20
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:07:19.442079
+#+PROPERTY: ID KR1d0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1d0004_WYG_014-1a>¶
 欽定四庫全書¶
 　周官新義卷十五　　　　宋　王安石　撰¶
@@ -440,4 +442,3 @@
 　杖咸鄭氏謂去杖以函盛之既事乃受共王之齒杖¶
 　鄭氏謂王所以賜老者之杖唯大祭祀共杖函盖非¶
 　大祭祀則杖於朝者弗豫焉¶
-

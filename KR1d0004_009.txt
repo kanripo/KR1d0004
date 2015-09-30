@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官新義
-#+DATE: 2015-09-23 09:37:20
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:07:19.368636
+#+PROPERTY: ID KR1d0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1d0004_WYG_009-1a>¶
 欽定四庫全書¶
 　周官新義卷十　　　　　宋　王安石　撰¶
@@ -362,4 +364,3 @@
 　保章氏降豐荒之祲象正嵗則行事者行安宅敘降¶
 　之事嵗終則弊其事者弊其正嵗所行之事不言㑹¶
 　而言弊則不可㑹也弊之而已¶
-

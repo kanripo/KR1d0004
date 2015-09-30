@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官新義
-#+DATE: 2015-09-23 09:37:20
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:07:19.301027
+#+PROPERTY: ID KR1d0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1d0004_WYG_006-1a>¶
 欽定四庫全書¶
 　周官新義卷七　　　　宋　王安石　撰¶
@@ -324,4 +326,3 @@
 　祭祀賔客從可知也¶
 槁人掌共外内朝宂食者之食若饗耆老孤子士庶子¶
 共其食掌豢祭祀之犬¶
-

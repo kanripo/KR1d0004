@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官新義
-#+DATE: 2015-09-23 09:37:20
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:07:19.475048
+#+PROPERTY: ID KR1d0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 附卷上
 <pb:KR1d0004_WYG_016-1a>¶
 欽定四庫全書¶
 　周官新義附卷上　　　　　宋　王安石　撰¶
@@ -422,4 +424,3 @@
 　淳其帛者灰渥而孰之也醇酒厚也酒生則清孰¶
 　則醇周禮有清酒昔酒昔酒則孰之者也諄孰言¶
 　之¶
-
